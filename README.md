@@ -7,7 +7,7 @@
     <td align="center" width="200"><b>Status</b></td>
   </tr>
   <tr>
-    <td align="center">MiniShell</td>
+    <td align="center"><a href="https://github.com/PaLucena/MiniShell">MiniShell</td>
     <td align="center">...</td>
   </tr>
   <tr>
