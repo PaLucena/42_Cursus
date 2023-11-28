@@ -8,11 +8,11 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/MiniShell">MiniShell</td>
-    <td align="center">...</td>
+    <td align="center"><img src="https://img.shields.io/badge/-101%2F100-success?logo=42&logoColor=000"></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/Philosophers">Philosophers</td>
-    <td align="center">...</td>
+    <td align="center"><img src="https://img.shields.io/badge/-118%2F100-success?logo=42&logoColor=000"></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/Exam-Rank-03">Exam Rank 3</td>
