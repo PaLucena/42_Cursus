@@ -1,5 +1,45 @@
 <h1 align="left">Common core progression:</h1>
 
+<h3 align="center">Rank 4:</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="200"><b>Proyect</b></td>
+    <td align="center" width="200"><b>Status</b></td>
+  </tr>
+  <tr>
+    <td align="center">MiniRT</td>
+    <td align="center">...</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/PaLucena/NetPractice">NetPractice</td>
+    <td align="center"><img src="https://img.shields.io/badge/-100%2F100-success?logo=42&logoColor=000"></td>
+  </tr>
+  <tr>
+    <td align="center">C++ Module 00</td>
+    <td align="center">...</td>
+  </tr>
+  <tr>
+    <td align="center">C++ Module 01</td>
+    <td align="center">...</td>
+  </tr>
+  <tr>
+    <td align="center">C++ Module 02</td>
+    <td align="center">...</td>
+  </tr>
+  <tr>
+    <td align="center">C++ Module 03</td>
+    <td align="center">...</td>
+  </tr>
+  <tr>
+    <td align="center">C++ Module 04</td>
+    <td align="center">...</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/PaLucena/Exam-Rank-04">Exam Rank 4</td>
+    <td align="center">...</td>
+  </tr>
+</table>
+
 <h3 align="center">Rank 3:</h3>
 <table align="center">
   <tr>
@@ -12,7 +52,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/Philosophers">Philosophers</td>
-    <td align="center"><img src="https://img.shields.io/badge/-118%2F100-success?logo=42&logoColor=000"></td>
+    <td align="center"><img src="https://img.shields.io/badge/-125%2F100-success?logo=42&logoColor=000"></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/Exam-Rank-03">Exam Rank 3</td>
