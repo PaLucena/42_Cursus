@@ -15,7 +15,7 @@
     <td align="center"><img src="https://img.shields.io/badge/-100%2F100-success?logo=42&logoColor=000"></td>
   </tr>
   <tr>
-    <td align="center">C++ Module 00</td>
+    <td align="center"><a href="https://github.com/PaLucena/Cpp/Cpp00">C++ Module 00</td>
     <td align="center">...</td>
   </tr>
   <tr>
@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/Exam-Rank-04">Exam Rank 4</td>
-    <td align="center">...</td>
+    <td align="center"><img src="https://img.shields.io/badge/-100%2F100-success?logo=42&logoColor=000"></td>
   </tr>
 </table>
 
