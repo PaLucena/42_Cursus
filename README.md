@@ -15,11 +15,11 @@
     <td align="center"><img src="https://img.shields.io/badge/-100%2F100-success?logo=42&logoColor=000"></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/PaLucena/Cpp/Cpp00">C++ Module 00</td>
+    <td align="center"><a href="https://github.com/PaLucena/Cpp/tree/main/Cpp00">C++ Module 00</td>
     <td align="center">...</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/PaLucena/Cpp/Cpp01">C++ Module 01</td>
+    <td align="center"><a href="https://github.com/PaLucena/Cpp/tree/main/Cpp01">C++ Module 01</td>
     <td align="center">...</td>
   </tr>
   <tr>
