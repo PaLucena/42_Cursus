@@ -7,7 +7,7 @@
     <td align="center" width="200"><b>Status</b></td>
   </tr>
   <tr>
-    <td align="center">MiniRT</td>
+    <td align="center"><a href="https://github.com/PaLucena/miniRT">MiniRT</td>
     <td align="center">...</td>
   </tr>
   <tr>
@@ -16,23 +16,23 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/Cpp/tree/main/Cpp00">C++ Module 00</td>
-    <td align="center">...</td>
+    <td align="center"><img src="https://img.shields.io/badge/-100%2F100-success?logo=42&logoColor=000"></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/Cpp/tree/main/Cpp01">C++ Module 01</td>
-    <td align="center">...</td>
+    <td align="center"><img src="https://img.shields.io/badge/-100%2F100-success?logo=42&logoColor=000"></td>
   </tr>
   <tr>
-    <td align="center">C++ Module 02</td>
-    <td align="center">...</td>
+    <td align="center"><a href="https://github.com/PaLucena/Cpp/tree/main/Cpp02">C++ Module 02</td>
+    <td align="center"><img src="https://img.shields.io/badge/-100%2F100-success?logo=42&logoColor=000"></td>
   </tr>
   <tr>
-    <td align="center">C++ Module 03</td>
-    <td align="center">...</td>
+    <td align="center"><a href="https://github.com/PaLucena/Cpp/tree/main/Cpp03">C++ Module 03</td>
+    <td align="center"><img src="https://img.shields.io/badge/-100%2F100-success?logo=42&logoColor=000"></td>
   </tr>
   <tr>
-    <td align="center">C++ Module 04</td>
-    <td align="center">...</td>
+    <td align="center"><a href="https://github.com/PaLucena/Cpp/tree/main/Cpp04">C++ Module 04</td>
+    <td align="center"><img src="https://img.shields.io/badge/-100%2F100-success?logo=42&logoColor=000"></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/Exam-Rank-04">Exam Rank 4</td>
