@@ -76,7 +76,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/push_swap">Push swap</td>
-    <td align="center"><img src="https://img.shields.io/badge/-96%2F100-success?logo=42&logoColor=000"></td>
+    <td align="center"><img src="https://img.shields.io/badge/-125%2F100-success?logo=42&logoColor=000"></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/Exam-Rank-02">Exam Rank 2</td>
@@ -96,7 +96,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/get_next_line">Get Next Line</td>
-    <td align="center"><img src="https://img.shields.io/badge/-100%2F100-success?logo=42&logoColor=000"></td>
+    <td align="center"><img src="https://img.shields.io/badge/-125%2F100-success?logo=42&logoColor=000"></td>
   </tr>
   <tr>
     <td align="center">Born2beroot</td>
