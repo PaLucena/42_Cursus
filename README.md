@@ -24,14 +24,14 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/Cpp/tree/main/Cpp07">C++ Module 07</td>
-    <td align="center">...</td>
+    <td align="center"><img src="https://img.shields.io/badge/-100%2F100-success?logo=42&logoColor=000"></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/Cpp/tree/main/Cpp08">C++ Module 08</td>
-    <td align="center">...</td>
+    <td align="center"><img src="https://img.shields.io/badge/-100%2F100-success?logo=42&logoColor=000"></td>
   </tr>
   <tr>
-    <td align="center">C++ Module 09</td>
+    <td align="center"><a href="https://github.com/PaLucena/Cpp/tree/main/Cpp09">C++ Module 09</td>
     <td align="center">...</td>
   </tr>
   <tr>
