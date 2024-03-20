@@ -7,7 +7,7 @@
     <td align="center" width="200"><b>Status</b></td>
   </tr>
   <tr>
-    <td align="center">ft_irc / webserv</td>
+    <td align="center"><a href="https://github.com/ealgar-c/ft_irc">ft_irc</td>
     <td align="center">...</td>
   </tr>
   <tr>
