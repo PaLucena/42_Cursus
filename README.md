@@ -8,10 +8,10 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/ealgar-c/ft_irc">ft_irc</td>
-    <td align="center">...</td>
+    <td align="center"><img src="https://img.shields.io/badge/-125%2F100-success?logo=42&logoColor=000"></td>
   </tr>
   <tr>
-    <td align="center">Inception</td>
+    <td align="center"><a href="https://github.com/PaLucena/Inception">Inception</td>
     <td align="center">...</td>
   </tr>
   <tr>
@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td align="center">Exam Rank 5</td>
-    <td align="center">...</td>
+    <td align="center"><img src="https://img.shields.io/badge/-100%2F100-success?logo=42&logoColor=000"></td>
   </tr>
 </table>
 
