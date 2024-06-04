@@ -3,8 +3,8 @@
 <h3 align="center">Rank 6:</h3>
 <table align="center">
   <tr>
-    <td align="center" width="200"><b>Proyect</b></td>
-    <td align="center" width="200"><b>Status</b></td>
+    <th width="200">Proyect</th>
+    <th width="200">Status</th>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/ft_transcendence">ft_transcendence</td>
@@ -19,8 +19,8 @@
 <h3 align="center">Rank 5:</h3>
 <table align="center">
   <tr>
-    <td align="center" width="200"><b>Proyect</b></td>
-    <td align="center" width="200"><b>Status</b></td>
+    <th width="200">Proyect</th>
+    <th width="200">Status</th>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/ealgar-c/ft_irc">ft_irc</td>
@@ -59,8 +59,8 @@
 <h3 align="center">Rank 4:</h3>
 <table align="center">
   <tr>
-    <td align="center" width="200"><b>Proyect</b></td>
-    <td align="center" width="200"><b>Status</b></td>
+    <th width="200">Proyect</th>
+    <th width="200">Status</th>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/miniRT">MiniRT</td>
@@ -99,8 +99,8 @@
 <h3 align="center">Rank 3:</h3>
 <table align="center">
   <tr>
-    <td align="center" width="200"><b>Proyect</b></td>
-    <td align="center" width="200"><b>Status</b></td>
+    <th width="200">Proyect</th>
+    <th width="200">Status</th>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/MiniShell">MiniShell</td>
@@ -119,8 +119,8 @@
 <h3 align="center">Rank 2:</h3>
 <table align="center">
   <tr>
-    <td align="center" width="200"><b>Proyect</b></td>
-    <td align="center" width="200"><b>Status</b></td>
+    <th width="200">Proyect</th>
+    <th width="200">Status</th>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/pipex">Pipex</td>
@@ -143,8 +143,8 @@
 <h3 align="center">Rank 1:</h3>
 <table align="center">
   <tr>
-    <td align="center" width="200"><b>Proyect</b></td>
-    <td align="center" width="200"><b>Status</b></td>
+    <th width="200">Proyect</th>
+    <th width="200">Status</th>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/ft_printf">ft_printf</td>
@@ -163,8 +163,8 @@
 <h3 align="center">Rank 0:</h3>
 <table align="center">
   <tr>
-    <td align="center" width="200"><b>Proyect</b></td>
-    <td align="center" width="200"><b>Status</b></td>
+    <th width="200">Proyect</th>
+    <th width="200">Status</th>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/PaLucena/libft">Libft</td>
@@ -173,6 +173,6 @@
 </table>
 
 <!--
-Así se comenta en GitHub
+Así se comenta en HTML
 -->
 
