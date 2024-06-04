@@ -7,7 +7,7 @@
     <td align="center" width="200"><b>Status</b></td>
   </tr>
   <tr>
-    <td align="center">ft_transcendence</td>
+    <td align="center"><a href="https://github.com/PaLucena/ft_transcendence">ft_transcendence</td>
     <td align="center">...</td>
   </tr>
   <tr>
