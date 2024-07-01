@@ -23,7 +23,7 @@
     <th width="200">Status</th>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/ealgar-c/ft_irc">ft_irc</td>
+    <td align="center"><a href="https://github.com/PaLucena/ft_irc">ft_irc</td>
     <td align="center"><img src="https://img.shields.io/badge/-125%2F100-success?logo=42&logoColor=000"></td>
   </tr>
   <tr>
